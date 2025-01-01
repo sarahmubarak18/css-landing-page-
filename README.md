@@ -18,7 +18,9 @@
 
 ---
 
-## 📸 Screenshot
+## 🌐 Live Demo
+**Check out the live demo:** TinDog Landing Page 
+https://sarahmubarak18.github.io/css-landing-page-/
 
 ---
 
